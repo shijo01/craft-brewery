@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Beer Craft</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">BeerCraft</string>
+    <string name="log_out">Log out</string>
+    <string name="loading_error">Error loading beer list</string>
+    <string name="retry">Retry</string>
+    <string name="sort">Sort</string>
+    <string name="search">Search</string>
+    <string name="shijo_p_v">Shijo P V</string>
+    <string name="email_id">shijovijayan@gmail.com</string>
+    <string name="phone">9447370635</string>
+</resources>
